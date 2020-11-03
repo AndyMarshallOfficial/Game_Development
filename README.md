@@ -1,1 +1,3 @@
 # Game_Development
+This repository consists of game that I am / have been learning to make.......
+In short word ... my progress
